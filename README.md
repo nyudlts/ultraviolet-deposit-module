@@ -21,7 +21,9 @@ explanations, and an initial version of how an _InvenioRDM_ custom module should
 ## Documentation
 
 - [How to create custom modules][docs-module-creation].
+- [How to distribute custom modules][docs-module-distribution].
 
 
 [docs-module-creation]: https://github.com/nyudlts/ultraviolet-deposit-module/blob/main/docs/module-types.md
+[docs-module-distribution]: https://github.com/nyudlts/ultraviolet-deposit-module/blob/main/docs/module-distribution.md
 [web-invenio]: https://inveniordm.docs.cern.ch/
