@@ -18,4 +18,10 @@ explanations, and an initial version of how an _InvenioRDM_ custom module should
 - For additional context, contact @ekate.
 
 
+## Documentation
+
+- [How to create custom modules][docs-module-creation].
+
+
+[docs-module-creation]: https://github.com/nyudlts/ultraviolet-deposit-module/blob/main/docs/module-types.md
 [web-invenio]: https://inveniordm.docs.cern.ch/
